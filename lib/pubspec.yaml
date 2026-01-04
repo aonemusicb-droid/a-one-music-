@@ -1,0 +1,10 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: latest
+  firebase_database: latest
+  firebase_auth: latest
+  cloudinary_public: latest
+  audioplayers: latest
+  file_picker: latest
+
